@@ -1,0 +1,7 @@
+
+Name: datechooser/beans/DateChooserPanel.class
+Java-Bean: True
+Name: datechooser/beans/DateChooserDialog.class
+Java-Bean: True
+Name: datechooser/beans/DateChooserCombo.class
+Java-Bean: True
